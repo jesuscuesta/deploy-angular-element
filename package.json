@@ -1,0 +1,22 @@
+{
+  "name": "deploy-angular-element",
+  "version": "1.0.0",
+  "description": "Build de una aplicacion sencilla con angular elements",
+  "main": "main-es2015.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscuesta/deploy-angular-element.git"
+  },
+  "keywords": [
+    "angular-elements",
+    "angular"
+  ],
+  "author": "jesus cuesta arza",
+  "bugs": {
+    "url": "https://github.com/jesuscuesta/deploy-angular-element/issues"
+  },
+  "homepage": "https://github.com/jesuscuesta/deploy-angular-element#readme"
+}
